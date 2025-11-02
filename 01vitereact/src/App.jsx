@@ -1,9 +1,11 @@
-import Chai from './Chai'
+
 
 function App() {  
 
+  const username = "chai aur code"
+
   return (
-    <h1>React Learning with vite</h1>    
+    <h1>React Learning with vite {username}</h1>    
   )
 }
 

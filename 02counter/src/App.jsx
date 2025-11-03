@@ -13,7 +13,7 @@ function App() {
     if (counter === 20){
 
     }    
-    else setCounter(counter+1)     
+    else setCounter(counter + 1)         
   }
 
   const removeValue = () => {

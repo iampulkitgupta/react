@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dsznajder.es7-react-js-snippets",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "zignd.html-css-class-completion",
+    "dbaeumer.vscode-eslint"
+  ]
+}
